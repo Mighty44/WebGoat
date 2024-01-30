@@ -30,6 +30,11 @@
 
   <developers>
     <developer>
+      <id>mighty44</id>
+      <name>John Smith</name>
+      <email></email>
+    </developer>
+    <developer>
       <id>mayhew64</id>
       <name>Bruce Mayhew</name>
       <email>webgoat@owasp.org</email>
